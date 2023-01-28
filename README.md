@@ -20,9 +20,6 @@ Nice to meet you, I'm Janhvi Kumbharkar
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=janhvikumbharkar&theme=react" width="48%" >
 <br>
 
-![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=janhvikumbharkar&theme=react-dark)
-<br>
-
 
 ## My Weapons 🌟
 
@@ -43,7 +40,8 @@ Nice to meet you, I'm Janhvi Kumbharkar
 
 <br>
 
- 
+ ![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=janhvikumbharkar&theme=react-dark)
+<br>
 
 <p align="center">Wanna Know me More?</p>
 
