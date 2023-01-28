@@ -55,3 +55,4 @@ Nice to meet you, I'm Janhvi Kumbharkar
 
 </p>
 
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=janhvikumbharkar.janhvikumbharkar" alt="janhvikumbharkar :: Visitor's Count" /></p>
