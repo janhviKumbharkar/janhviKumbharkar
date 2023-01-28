@@ -14,6 +14,16 @@ Nice to meet you, I'm Janhvi Kumbharkar
 
 <br>
 
+## Github Status 🏆
+
+<img  src="https://github-readme-stats.vercel.app/api?username=janhvikumbharkar&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=janhvikumbharkar&theme=react" width="48%" >
+<br>
+
+![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=janhvikumbharkar&theme=react-dark)
+<br>
+
+
 ## My Weapons 🌟
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janhvikumbharkar&theme=react)](https://github.com/janhvikumbharkar/github-readme-stats)
@@ -34,14 +44,6 @@ Nice to meet you, I'm Janhvi Kumbharkar
 <br>
 
  
-## Github Status 🏆
-
-<img  src="https://github-readme-stats.vercel.app/api?username=janhvikumbharkar&count_private=true&show_icons=true&hide_border=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=janhvikumbharkar&theme=react" width="48%" >
-<br>
-
-![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=janhvikumbharkar&theme=react-dark)
-<br>
 
 <p align="center">Wanna Know me More?</p>
 
