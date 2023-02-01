@@ -2,7 +2,6 @@
 
 Nice to meet you, I'm Janhvi Kumbharkar
 ## Who Am I? 🤠
-
 - 🤓 Self taught Developer 
 - 👩‍💻 Working on Web Development 
 - 🎯 Goal : To be a better Developer 
@@ -37,7 +36,6 @@ Nice to meet you, I'm Janhvi Kumbharkar
     <br />
     <br />
 </p>
-
 <br>
 
  ![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=janhvikumbharkar&theme=react-dark)
