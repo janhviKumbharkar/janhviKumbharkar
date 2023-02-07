@@ -19,7 +19,6 @@ Nice to meet you, I'm Janhvi Kumbharkar
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=janhvikumbharkar&theme=react" width="48%" >
 <br>
 
-
 ## My Weapons 🌟
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janhvikumbharkar&theme=react)](https://github.com/janhvikumbharkar/github-readme-stats)
