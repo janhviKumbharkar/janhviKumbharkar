@@ -10,7 +10,7 @@ Nice to meet you, I'm Janhvi Kumbharkar
     - Loves food but can't' cook 🐼 
     - Overthinks thinking to not to overthink 🙂
     - annyeong-haseyo ( Ahh, Learning Korean out of curiosity ) 🙃
-<br>
+ <br>
 
 ## Github Status 🏆
 
