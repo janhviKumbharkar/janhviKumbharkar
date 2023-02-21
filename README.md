@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-Nice to meet you, I'm Janhvi Kumbharkar
+Nice to meet you, I'm  Janhvi Kumbharkar
 ## Who Am I? 🤠
 - 🤓 Self taught Developer 
 - 👩‍💻 Working on Web Development 
